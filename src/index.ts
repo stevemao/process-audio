@@ -4,3 +4,5 @@ export const processAudio = function (a: Float32Array): Int16Array {
 
   return d;
 };
+
+export default processAudio;
