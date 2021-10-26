@@ -1,6 +1,6 @@
 {
   "name": "process-audio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A very small utility helper in audio. Just like left-pad in audio",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
